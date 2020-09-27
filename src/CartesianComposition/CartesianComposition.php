@@ -34,6 +34,8 @@ use Tonix\PHPUtils\CombinatoricsUtils;
 
 /**
  * Class implementing the cartesian composition algorithm.
+ *
+ * @author Anton Bagdatyev (Tonix) <antonytuft@gmail.com>
  */
 class CartesianComposition {
   /**

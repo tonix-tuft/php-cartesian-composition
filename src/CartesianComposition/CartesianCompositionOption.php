@@ -31,6 +31,8 @@ use Tonix\PHPUtils\Enum\EnumToKeyValTrait;
 
 /**
  * Enum-like class.
+ *
+ * @author Anton Bagdatyev (Tonix) <antonytuft@gmail.com>
  */
 abstract class CartesianCompositionOption {
   use EnumToKeyValTrait;
